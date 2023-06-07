@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
       - name: springapp
-        image: asia-south1-docker.pkg.dev/avian-direction-382907/my-repo/springapp:36d18d7
+        image: asia-south1-docker.pkg.dev/avian-direction-382907/my-repo/springapp:fe75400
         ports:
         - containerPort: 8080
