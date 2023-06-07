@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
       - name: springapp
-        image: asia-south1-docker.pkg.dev/avian-direction-382907/my-repo/springapp:COMMIT_SHA
+        image: asia-south1-docker.pkg.dev/GOOGLE_CLOUD_PROJECT/my-repo/springapp:COMMIT_SHA
         ports:
         - containerPort: 8080
